@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anthonypaulsullivan
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Linux, Python & CTF's
-- 💞️ I’m looking to collaborate on Game anti-hacking, CTF's and Hacking Games 
+- 💞️ I’m looking to collaborate on Game anti-hacking, CTF's and any game focused on Hacking 
 - 📫 How to reach me scrubbycreek@hotmail.com
 
 
